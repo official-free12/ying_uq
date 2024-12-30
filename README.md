@@ -1,0 +1,6 @@
+# 英文广告联盟源码 全球财经金融网站模板 附带采集器
+
+安装简单方便，上传文件并导入数据即可！新手不会安装需要安装服务的，请先联系店家协商确认后再购买！<br>主题演示地址：http://example.com/fina2economis/详细页面地址：http://example.com/product/example.com<br>模板程序在Windows服务器和Linux环境下测试通过 兼容浏览器：IE9,IE10,IE11,Firefox,Safari,Opera,Chrome <br>你使用中有任何问题请联系旺旺或者企鹅Q：138762189<br>----------------------------------------------------------------------------------<br>主题付费安装成演示站，并免费提供售后技术支持！<br>安装成演示站需要使用者有一定的WordPress操作能力！<br>不懂请看教程<br>推荐使用CentOS/Ubuntu/Linux系统<br>推荐主机配置Linux+Apache+example.com+example.com<br>虚拟主机. 推荐主机：cPanel面板，至少1G以上网站空间容量！<br>主题包为演示站整体打包，轻松完成安装演示站只需要四步骤： 解压，上传，导入，安装，修改数据库，就成网站，不懂看教程，或联系店家支持！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/7YTUP" style="color: red;">https://mega-file.org/7YTUP</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
